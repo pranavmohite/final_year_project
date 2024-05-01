@@ -1,0 +1,1 @@
+from PythonFiles.initFirebase import residents_collection

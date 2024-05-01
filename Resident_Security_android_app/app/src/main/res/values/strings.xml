@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Intruder Alert</string>
+    <string name="FcmToken">Current FCM Token:</string>
+    <string name="database_Sync">Send to Database</string>
+    <string name="name_for_storing_token">Name for storing token</string>
+    <string name="token_exist">Token exist in the database</string>
+    <string name="token_already_exist">Token Already exist in database with different name</string>
+    <string name="name_cannot_be_null">Name cannot be null</string>
+    <string name="Identified">Identified</string>
+    <string name="Unidentified">Unidentified</string>
+    <string name="Residents">Residential People List</string>
+    <string name="TokenRegs">TokenRegistration</string>
+    <string name="back_button">back button</string>
+    <string name="detailed_information">Detailed Information</string>
+    <string name="loading">Loading the data</string>
+    <string name="error">Error getting the List</string>
+    <string name="login_user">Login User</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="delivery_person">Identified delivery persons</string>
+    <string name="welcome">Welcome to our application</string>
+    <string name="project_title"><![CDATA[Project name :\n Residential security system]]></string>
+    <string name="information" >This application is build under GD6 group</string>
+</resources>
